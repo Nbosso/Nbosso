@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=377DFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Natan+Bosso;Dev+Flutter;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=377DFF&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Natan+Bosso;+:%29)](https://git.io/typing-svg)
 
   <p>
     
