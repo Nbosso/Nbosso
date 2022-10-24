@@ -21,6 +21,9 @@
   
 </br>
 
+## Estudando no momento:
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
+
 ## Contato
 <div> 
   <a href="https://www.linkedin.com/in/natansantosbosso/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
