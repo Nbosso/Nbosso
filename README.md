@@ -4,7 +4,7 @@
     
      🔥 Desenvolvedor Flutter
   
-     📚 Atualmente cursando Engenharia de Computação
+     📚 Engenheiro de Computação
       
      👩🏾‍🎓 Entre minhas softskills destacam-se: comunicação, foco em resultados, humildade, brilho no olho e facilidade no trabalho em equipe.
     
